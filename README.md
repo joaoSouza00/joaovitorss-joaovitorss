@@ -2,7 +2,7 @@
 
 Estudante de Engenharia de Software, focado em **desenvolvimento full-stack** e **automações com IA**.
 
-#### 🛠️ Stack atual
+####  Stack atual
 
 - **Backend:** Node.js, TypeScript, Python, Express, Prisma
 - **Frontend:** React, TypeScript, HTML, CSS
@@ -16,7 +16,7 @@ Estudante de Engenharia de Software, focado em **desenvolvimento full-stack** e 
 - Aprofundando em backend com Node.js e em integrações de IA
 
 
-#### 📫 Contato
+####  Contato
 
 
 - **Localização:** Porto Alegre, Brasil
